@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Wecolme to Sean Xiang Li's hompage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Bio
+=====
+I am a Research Assistant at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), working with Prof. [Heqing HUANG](https://5hadowblad3.github.io/). Previously, I dedicated two years to exploring _what I want to be_ and _what I benefit to do_ in this society through diverse experiences across academia and industry. During these two years, I had the privilege to work at renowned institutions including [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Zhejiang Lab](https://en.zhejianglab.com/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), and [Huawei 2012Lab](https://www.huawei.com/cn/). I am deeply honored to have collaborated with exceptional mentors such as [Prof. Yinqian ZHANG](https://yinqian.org/), [Dr. Haoyu MA](https://scholar.google.com/citations?user=9csJTTcAAAAJ&hl=zh-CN), and [Dr. Jianyu NIU](https://jianyu-niu.github.io/), whose guidance has been pivotal to my growth. This transformative journey has not only gifted me with invaluable professional insights but also cherished memories that continue to shape my path.
+
+I aim to develop security systems to protect users from vulnerabilities and data leakage. My research interest lies in System Security, focusing on Linux Kernel Fuzzing. I have participated in several projects involving Syzkaller, confidential container technologies, hardware vulnerability analysis, cryptographic protocol design, and decentralized computing.
+
 
 A data-driven personal website
 ======
