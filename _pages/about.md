@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<!-- About me
-===== -->
+Welcome to Sean Xiang LI's homepage!
+
 I am a Research Assistant at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/), working with [Prof. Heqing HUANG](https://5hadowblad3.github.io/). Previously, I dedicated two years to exploring _what I want to be_ and _what I benefit to do_ in this society through diverse experiences across academia and industry. During these two years, I had the privilege to work at renowned institutions including [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Zhejiang Lab](https://en.zhejianglab.com/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), and [Huawei 2012Lab](https://www.huawei.com/cn/). I am deeply honored to have collaborated with exceptional mentors such as [Prof. Yinqian ZHANG](https://yinqian.org/), [Dr. Haoyu MA](https://scholar.google.com/citations?user=9csJTTcAAAAJ&hl=zh-CN), and [Dr. Jianyu NIU](https://jianyu-niu.github.io/), whose guidance has been pivotal to my growth. This transformative journey has not only gifted me with invaluable professional insights but also cherished memories that continue to shape my path.
 
 I aim to develop secure and reliable systems that protect users from vulnerabilities using Large Language Models. 
