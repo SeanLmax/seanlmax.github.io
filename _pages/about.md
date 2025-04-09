@@ -38,12 +38,35 @@ I am a true idealist, driven by intellectual curiosity and a passion for tacklin
 ## Selected Publication
 (* corresponding author)
 
-### ICICS'25
-[**Efficient Fuzzing Infrastructure for Pointer-to-Object Association**]()   
-Hao Ling, **Heqing Huang<sup>\*</sup>**, Yuandao Cai, Charles Zhang.    
-*ACM Transactions on Software Engineering and Methodology* 
+### ICICS'24
+[**DMA: Mutual Attestation Framework for Distributed Enclaves**](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8) [[Artifacts]](https://github.com/Seix61/DMA)   
+Peixi Li, **Xiang Li<sup>\*</sup>**, Liming Fang<sup>\*</sup>.    
+*International Conference on Information and Communications Security* **(CCF-C)**  
+**[Acceptance rate: 24.5% (97/396)]**  
 
+### TDSC'24b
+[**MaTEE: Efficiently Bridging the Semantic Gap in TrustZone via ARM Pointer Authentication**](https://ieeexplore.ieee.org/abstract/document/10638181)
+Shiqi Liu, **Xiang Li**, Jie Wang, Yongpeng Gao, Jiajin Hu.  
+*IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
+### TDSC'24a
+[**Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**](https://ieeexplore.ieee.org/document/10480251)
+Wei Peng, **Xiang Li**, Jianyu Niu, Xiaokuan Zhang and Yinqian Zhang.  
+*IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
-## Abouut me
+### USENIX Security'24
+[**Peep With A Mirror: Breaking The Integrity of Android App Sandboxing via Unprivileged Cache Side Channel**](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)
+Yan Lin, Joshua Wong, **Xiang Li**, Haoyu Ma, Debin Gao.   
+*In Proceedings of the USENIX Security* **(CCF-A, Big4 Security Conference)**  
+**[Acceptance rate: 24.5% (97/396)]** 
+
+<!-- ### S&P'22
+[**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)  
+**Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
+*The 43rd IEEE Symposium on Security and Privacy*.
+[[Artifacts]](https://github.com/5hadowblad3/Beacon_artifact)  
+🏆 <span style='color: red;'>**Google Research Paper Award**</span>
+<!-- **[Acceptance rate: 24.5% (97/396)]** -->
+
+## About me
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
