@@ -32,8 +32,12 @@ I aim to contribute to **building secure Operating Systems** through fundamental
 I am a true idealist, driven by intellectual curiosity and a passion for tackling unsolved challenges. Before joined CityUHK, I dedicated two years to exploring _what I want to be_ and _what I benefit to do_ in this society through diverse experiences across academia and industry. During these two years, I had the privilege to work at renowned institutions including [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Zhejiang Lab](https://en.zhejianglab.com/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), and [Huawei 2012Lab](https://www.huawei.com/cn/). I am deeply honored to have collaborated with exceptional mentors such as [Prof. Yinqian ZHANG](https://yinqian.org/), [Dr. Haoyu MA](https://scholar.google.com/citations?user=9csJTTcAAAAJ&hl=zh-CN), and [Dr. Jianyu NIU](https://jianyu-niu.github.io/), whose guidance has been pivotal to my growth. This transformative journey has not only gifted me with invaluable professional insights but also cherished memories that continue to shape my path.
 
 ## Award
-  * Google Research Paper Award, 2022
-  * Huawei Distinguish Collaborator, 2021
+  * Outstanding Master Student, 2022
+  * Outstanding Bachelor Graduate, 2019
+  * Excellent Undergraduate Thesis, 2019
+  * Interdisciplinary Contest In Modeling, *Honorable Mention*
+  * National Cryptography Competition, *Third Prize*
+  * China Undergraduate Mathematical Contest in Modeling, *First Prize in Province District*
 
 ## Selected Publications
 (* corresponding author)
@@ -69,4 +73,4 @@ Yan Lin, Joshua Wong, **Xiang Li**, Haoyu Ma, Debin Gao.
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 
 ## About me
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I was born in Shandong, China. I am obsessed with playing music🎶, such as 🪗accordion and 🎹piano. Also, you would often see me at 🎤livehouses and 🤣talk-shows. These seemingly opposing hobbies shaped my personalities. Talk is cheap, show me your activities! I love express myself and experiencing new things.
