@@ -17,11 +17,9 @@ I have participated in several projects, including an LLM-Driven Kernel Fuzzing 
 which include distributed confidential computing[TDSC’24a, ICICS’24, GLOBECOM’20, Patent’23ab],
 hardware vulnerability mitigation[USENIX’24, TDSC24’b, Exocist]. 
 
-I aim to contribute to **building secure Operating Systems** through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_.
+I aim to contribute to **building secure Operating Systems** through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My research proposal on [Kernel Fuzzing] hardening and [LLM-Driven Fuzzing tool] analysis demonstrate this commitment.
 
-**Actively pursuing Ph.D. positions in System Security.**
-
-**My research proposal on [Kernel Fuzzing] hardening and [LLM-Driven Fuzzing tool] analysis demonstrate this commitment. Here is my CV.**
+**Actively pursuing Ph.D. positions in System Security. Here is my CV.**
 
 
 
