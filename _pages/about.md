@@ -19,10 +19,10 @@ hardware vulnerability mitigation(USENIX Security'24, TDSC'24b, Exocist).
 
 I aim to build secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My [research proposal](/files/%5B250409%5DResearch_Proposal.pdf) on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
 
-**Actively pursuing Ph.D. positions in AI-driven System Security. Here is my [CV](/files/%5B250409%5DCV_Xiang_Li.pdf).**
+**🤝Actively pursuing Ph.D. positions in AI-driven System Security. Here is my [CV](/files/%5B250409%5DCV_Xiang_Li.pdf).**
 
 ### **NEWS!**
- * [Jan/2025] I am participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary)！
+ * [Jan/2025] I am participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary)!
  * [Aug/2024] I will join [City University of Hong Kong](https://www.cityu.edu.hk/) as a research assistant! Enjoy a new journey in Hong Kong!
  * [Aug/2024] Our work on Semantic Gap attack mitigation for ARM Trustzone is accept at [TDSC](https://ieeexplore.ieee.org/abstract/document/10638181), again!
  * [Jul/2024] Our work on Mutual Attestation for Intel SGX is accepted at [ICICS](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8)! Congratulations, Peixi!
