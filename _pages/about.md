@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to Sean's homepage!
 
-I am currently a Research Assistant at the Department of Computer Science, [City University of Hong Kong(CityUHK)](https://www.cityu.edu.hk/), working with [Prof. Heqing HUANG](https://5hadowblad3.github.io/).
+I am currently a Research Assistant at the Department of Computer Science, [City University of Hong Kong(CityUHK)](https://www.cityu.edu.hk/), working with [Prof. Heqing HUANG](https://www.cs.cityu.edu.hk/~heqhuang).
 
 My research interest lies in System Security, with a focus on _Linux Kernel Fuzzing_ recently. 
 I have participated in several projects, including an LLM-Driven Kernel Fuzzing Framework, and Storage-Efficient Kernel Fuzzer Optimization. 
