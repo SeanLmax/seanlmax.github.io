@@ -17,9 +17,9 @@ Previously, my research specifically lie on mitigating software/hardware securit
 which include distributed confidential computing(TDSC'24a, ICICS'24, GLOBECOM'20, Patent'23ab),
 hardware vulnerability mitigation(USENIX Security'24, TDSC'24b, Exocist). 
 
-I aim to build secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My research proposal on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
+I aim to build secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My [research proposal](/files/[250409]Research_Proposal.pdf) on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
 
-**Actively pursuing Ph.D. positions in System Security. Here is my [CV](/files/%5B250409%5DCV_Xiang_Li.pdf).**
+**Actively pursuing Ph.D. positions in AI-driven System Security. Here is my [CV](/files/%5B250409%5DCV_Xiang_Li.pdf).**
 
 ### **NEWS!**
  * [Jan/2025] I am participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary)！
