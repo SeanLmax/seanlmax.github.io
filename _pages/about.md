@@ -35,7 +35,7 @@ I am a true idealist, driven by intellectual curiosity and a passion for tacklin
   * Google Research Paper Award, 2022
   * Huawei Distinguish Collaborator, 2021
 
-## Selected Publication
+## Selected Publications
 (* corresponding author)
 
 ### ICICS'24
@@ -45,17 +45,17 @@ Peixi Li, **Xiang Li<sup>\*</sup>**, Liming Fang<sup>\*</sup>.
 **[Acceptance rate: 24.5% (97/396)]**  
 
 ### TDSC'24b
-[**MaTEE: Efficiently Bridging the Semantic Gap in TrustZone via ARM Pointer Authentication**](https://ieeexplore.ieee.org/abstract/document/10638181)
+[**MaTEE: Efficiently Bridging the Semantic Gap in TrustZone via ARM Pointer Authentication**](https://ieeexplore.ieee.org/abstract/document/10638181)  
 Shiqi Liu, **Xiang Li**, Jie Wang, Yongpeng Gao, Jiajin Hu.  
 *IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
 ### TDSC'24a
-[**Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**](https://ieeexplore.ieee.org/document/10480251)
+[**Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**](https://ieeexplore.ieee.org/document/10480251)  
 Wei Peng, **Xiang Li**, Jianyu Niu, Xiaokuan Zhang and Yinqian Zhang.  
 *IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
 ### USENIX Security'24
-[**Peep With A Mirror: Breaking The Integrity of Android App Sandboxing via Unprivileged Cache Side Channel**](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)
+[**Peep With A Mirror: Breaking The Integrity of Android App Sandboxing via Unprivileged Cache Side Channel**](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)  
 Yan Lin, Joshua Wong, **Xiang Li**, Haoyu Ma, Debin Gao.   
 *In Proceedings of the USENIX Security* **(CCF-A, Big4 Security Conference)**  
 **[Acceptance rate: 24.5% (97/396)]** 
