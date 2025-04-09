@@ -17,14 +17,14 @@ Previously, my research specifically lie on mitigating software/hardware securit
 which include distributed confidential computing(TDSC'24a, ICICS'24, GLOBECOM'20, Patent'23ab),
 hardware vulnerability mitigation(USENIX Security'24, TDSC'24b, Exocist). 
 
-I aim to contribute to building secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My research proposal on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
+I aim to build secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My research proposal on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
 
 **Actively pursuing Ph.D. positions in System Security. Here is my [CV](/files/%5B250409%5DCV_Xiang_Li.pdf).**
 
 ### **NEWS!**
  * [Jan/2025] I am participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary)！
  * [Aug/2024] I will join [City University of Hong Kong](https://www.cityu.edu.hk/) as a research assistant! Enjoy a new journey in Hong Kong!
- * [Aug/2024] Our work on Semantic Gap attack mitigation for ARM Trustzone is accept at [TDSC](https://ieeexplore.ieee.org/document/10480251), again!
+ * [Aug/2024] Our work on Semantic Gap attack mitigation for ARM Trustzone is accept at [TDSC](https://ieeexplore.ieee.org/abstract/document/10638181), again!
  * [Jul/2024] Our work on Mutual Attestation for Intel SGX is accepted at [ICICS](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8)! Congratulations, Peixi!
  * [May/2024] Our paper on Android Cache Side Channel is accepted at [USENIX Security](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)!
  * [Mar/2024] Our work on State Continuity for Confidential Computing is accepted at [TDSC](https://ieeexplore.ieee.org/document/10480251)!
