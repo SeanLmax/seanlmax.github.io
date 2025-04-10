@@ -14,8 +14,8 @@ I am currently a Research Assistant at the Department of Computer Science, [City
 My research interest lies in System Security, with a focus on _Linux Kernel Fuzzing_ recently. 
 I have participated in several projects, including an LLM-Driven Kernel Fuzzing Framework, and Storage-Efficient Kernel Fuzzer Optimization. 
 Previously, my research specifically lie on mitigating software/hardware security threats using Trusted Experiment Environment(TEE),
-which include distributed confidential computing(TDSC'24a, ICICS'24, GLOBECOM'20, Patent'23ab),
-hardware vulnerability mitigation(USENIX Security'24, TDSC'24b, Exocist). 
+which include distributed confidential computing([TDSC'24a](https://ieeexplore.ieee.org/document/10480251), ICICS'24, GLOBECOM'20, Patent'23ab),
+hardware vulnerability mitigation(USENIX Security'24, [TDSC'24b](https://ieeexplore.ieee.org/abstract/document/10638181), Exocist). 
 
 I aim to build secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My [research proposal](/files/%5B250409%5DResearch_Proposal.pdf) on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
 
