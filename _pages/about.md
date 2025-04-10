@@ -30,7 +30,7 @@ I aim to build secure Operating Systems through fundamental research with demons
  [Mar/2024] Our work on State Continuity for Confidential Computing is accepted at [TDSC](https://ieeexplore.ieee.org/document/10480251)! -->
  * [Aug/2023] I will join OSLab of Alibaba DAMO Academy!
 
- ## Selected Publications
+## Selected Publications
 (* corresponding author)
 
 ### ICICS'24
