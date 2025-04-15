@@ -35,18 +35,18 @@ I aim to build secure Operating Systems through fundamental research with demons
 (* corresponding author)
 
 ### ICICS'24
-[**DMA: Mutual Attestation Framework for Distributed Enclaves**](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8) [[Artifacts]](https://github.com/Seix61/DMA)   
+[**DMA: Mutual Attestation Framework for Distributed Enclaves**](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8) [[🔗Artifacts]](https://github.com/Seix61/DMA)   
 Peixi Li, **Xiang Li<sup>\*</sup>**, Liming Fang<sup>\*</sup>.    
 *International Conference on Information and Communications Security* **(CCF-C)**  
 **[Acceptance rate: 26.0% (32/123)]**  
 
 ### TDSC'24b
-[**MaTEE: Efficiently Bridging the Semantic Gap in TrustZone via ARM Pointer Authentication**](https://ieeexplore.ieee.org/abstract/document/10638181)  
+[**MaTEE: Efficiently Bridging the Semantic Gap in TrustZone via ARM Pointer Authentication**](https://ieeexplore.ieee.org/abstract/document/10638181)[[🔗Artifacts]](https://github.com/erhade/MaTEE)   
 Shiqi Liu, **Xiang Li**, Jie Wang, Yongpeng Gao, Jiajin Hu.  
 *IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
 ### TDSC'24a
-[**Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**](https://ieeexplore.ieee.org/document/10480251)  
+[**Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**](https://ieeexplore.ieee.org/document/10480251)[[🔗Artifacts]](https://github.com/pw0rld/Narrator)
 Wei Peng, **Xiang Li**, Jianyu Niu, Xiaokuan Zhang and Yinqian Zhang.  
 *IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
