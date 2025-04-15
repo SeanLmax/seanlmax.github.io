@@ -64,7 +64,7 @@ Yan Lin, Joshua Wong, **Xiang Li**, Haoyu Ma, Debin Gao.
 🏆 <span style='color: red;'>**Google Research Paper Award**</span>
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
  
-## Bio
+## Biography
 I am a true idealist, driven by intellectual curiosity and a passion for tackling unsolved challenges. Before joined CityUHK, I dedicated two years to exploring _what I want to be_ and _what I benefit to do_ in this society through diverse experiences across academia and industry. During these two years, I had the privilege to work at renowned institutions including [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Zhejiang Lab](https://en.zhejianglab.com/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), and [Huawei 2012Lab](https://www.huawei.com/cn/). I am deeply honored to have collaborated with exceptional mentors such as [Prof. Zheng YAN](https://web.xidian.edu.cn/yanzheng/en/index.html), [Prof. Yinqian ZHANG](https://yinqian.org/), [Dr. Haoyu MA](https://scholar.google.com/citations?user=9csJTTcAAAAJ&hl=zh-CN), and [Dr. Jianyu NIU](https://jianyu-niu.github.io/), whose guidance has been pivotal to my growth. This transformative journey has not only gifted me with invaluable professional insights but also cherished memories that continue to shape my path.
 
 ## Award
