@@ -31,7 +31,7 @@ I aim to build secure Operating Systems through fundamental research with demons
  <!-- * [May/2024] Our paper on Android Cache Side Channel is accepted at [USENIX Security](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)! -->
  <!-- * [Mar/2024] Our work on State Continuity for Confidential Computing is accepted at [TDSC](https://ieeexplore.ieee.org/document/10480251)!  -->
 
-## Selected Publications[[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=FKn1rN4AAAAJ)]
+## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=FKn1rN4AAAAJ)]
 (* corresponding author)
 
 ### ICICS'24
