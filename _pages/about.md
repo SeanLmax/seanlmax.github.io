@@ -19,7 +19,7 @@ hardware vulnerability mitigation([USENIX Security'24](https://www.usenix.org/co
 
 I aim to build secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My [research proposal](/files/%5B250409%5DResearch_Proposal.pdf) on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
 
-**🤝I am looking for Ph.D. positions in _LLM-driven System Security_ and _Security for AI Infrastructure_. Here is my [CV](/files/%5B250409%5DCV_Xiang_Li.pdf).**
+**🤝I am looking for Ph.D. positions in _LLM-driven System Security_ and _Security for AI Infrastructure_. Here is my [CV](/files/%5B250416%5DCV_Xiang_Li.pdf).**
 
 ### **NEWS!**
  * [Jan/2025] I am participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary)!
