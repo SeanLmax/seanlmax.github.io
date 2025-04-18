@@ -19,33 +19,34 @@ hardware vulnerability mitigation([USENIX Security'24](https://www.usenix.org/co
 
 I aim to build secure Operating Systems through fundamental research with demonstrated expertise in _kernel-level system development_ and _vulnerability pattern discovery_. My [research proposal](/files/%5B250409%5DResearch_Proposal.pdf) on *Kernel Fuzzing* hardening and *LLM-Driven Fuzzing* tool analysis demonstrate this commitment.
 
-**🤝I am looking for Ph.D. positions in AI-driven System Security. Here is my [CV](/files/%5B250409%5DCV_Xiang_Li.pdf).**
+**🔍I am looking for Ph.D. positions in _LLM-driven System Security_ and _Security for AI Infrastructure_. Here is my [CV](/files/%5B250416%5DCV_Xiang_Li.pdf).**
 
 ### **NEWS!**
  * [Jan/2025] I am participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary)!
  * [Aug/2024] I will join [City University of Hong Kong](https://www.cityu.edu.hk/) as a research assistant! Enjoy a new journey in Hong Kong!
- <!-- [Aug/2024] Our work on Semantic Gap attack mitigation for ARM Trustzone is accept at [TDSC](https://ieeexplore.ieee.org/abstract/document/10638181), again!
- [Jul/2024] Our work on Mutual Attestation for Intel SGX is accepted at [ICICS](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8)! Congratulations, Peixi!
- [May/2024] Our paper on Android Cache Side Channel is accepted at [USENIX Security](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)!
- [Mar/2024] Our work on State Continuity for Confidential Computing is accepted at [TDSC](https://ieeexplore.ieee.org/document/10480251)! -->
- * [Aug/2023] I will join OSLab of Alibaba DAMO Academy!
+  * [Aug/2023] I will join OSLab of [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en)!
 
-## Selected Publications
+ <!-- * [Aug/2024] Our work on Semantic Gap attack mitigation for ARM Trustzone is accept at [TDSC](https://ieeexplore.ieee.org/abstract/document/10638181), again! -->
+ <!-- * [Jul/2024] Our work on Mutual Attestation for Intel SGX is accepted at [ICICS](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8)! Congratulations, Peixi! -->
+ <!-- * [May/2024] Our paper on Android Cache Side Channel is accepted at [USENIX Security](https://www.usenix.org/conference/usenixsecurity24/presentation/lin-yan)! -->
+ <!-- * [Mar/2024] Our work on State Continuity for Confidential Computing is accepted at [TDSC](https://ieeexplore.ieee.org/document/10480251)!  -->
+
+## Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=FKn1rN4AAAAJ)]
 (* corresponding author)
 
 ### ICICS'24
-[**DMA: Mutual Attestation Framework for Distributed Enclaves**](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8) [[Artifacts]](https://github.com/Seix61/DMA)   
+[**DMA: Mutual Attestation Framework for Distributed Enclaves**](https://link.springer.com/chapter/10.1007/978-981-97-8798-2_8) [[🔗Artifacts]](https://github.com/Seix61/DMA)   
 Peixi Li, **Xiang Li<sup>\*</sup>**, Liming Fang<sup>\*</sup>.    
 *International Conference on Information and Communications Security* **(CCF-C)**  
 **[Acceptance rate: 26.0% (32/123)]**  
 
 ### TDSC'24b
-[**MaTEE: Efficiently Bridging the Semantic Gap in TrustZone via ARM Pointer Authentication**](https://ieeexplore.ieee.org/abstract/document/10638181)  
+[**MaTEE: Efficiently Bridging the Semantic Gap in TrustZone via ARM Pointer Authentication**](https://ieeexplore.ieee.org/abstract/document/10638181) [[🔗Artifacts]](https://github.com/erhade/MaTEE)     
 Shiqi Liu, **Xiang Li**, Jie Wang, Yongpeng Gao, Jiajin Hu.  
 *IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
 ### TDSC'24a
-[**Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**](https://ieeexplore.ieee.org/document/10480251)  
+[**Ensuring State Continuity for Confidential Computing: A Blockchain-based Approach**](https://ieeexplore.ieee.org/document/10480251) [[🔗Artifacts]](https://github.com/pw0rld/Narrator)   
 Wei Peng, **Xiang Li**, Jianyu Niu, Xiaokuan Zhang and Yinqian Zhang.  
 *IEEE Transactions on Dependable and Secure Computing* **(CCF-A)**  
 
@@ -62,6 +63,18 @@ Yan Lin, Joshua Wong, **Xiang Li**, Haoyu Ma, Debin Gao.
 [[Artifacts]](https://github.com/5hadowblad3/Beacon_artifact)  
 🏆 <span style='color: red;'>**Google Research Paper Award**</span>
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
+ 
+## Biography
+I am a true idealist, driven by intellectual curiosity and a passion for tackling unsolved challenges. Before joined CityUHK, I dedicated two years to exploring _what I want to be_ and _what I benefit to do_ in this society through diverse experiences across academia and industry. During these two years, I had the privilege to work at renowned institutions including [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Zhejiang Lab](https://en.zhejianglab.com/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), and [Huawei 2012Lab](https://www.huawei.com/cn/). I am deeply honored to have collaborated with exceptional mentors such as [Prof. Zheng YAN](https://web.xidian.edu.cn/yanzheng/en/index.html), [Prof. Yinqian ZHANG](https://yinqian.org/), [Dr. Haoyu MA](https://scholar.google.com/citations?user=9csJTTcAAAAJ&hl=zh-CN), and [Dr. Jianyu NIU](https://jianyu-niu.github.io/), whose guidance has been pivotal to my growth. This transformative journey has not only gifted me with invaluable professional insights but also cherished memories that continue to shape my path.
+
+## Award
+  * Outstanding Master Student, 2022
+  * Outstanding Bachelor Graduate, 2019
+  * Excellent Undergraduate Thesis, 2019
+  * Interdisciplinary Contest In Modeling, *Honorable Mention*
+  * National Cryptography Competition, *Third Prize*
+  * China Undergraduate Mathematical Contest in Modeling, *First Prize in Province District*
+
 
 ## Bio
 I am a true idealist, driven by intellectual curiosity and a passion for tackling unsolved challenges. Before joined CityUHK, I dedicated two years to exploring _what I want to be_ and _what I benefit to do_ in this society through diverse experiences across academia and industry. During these two years, I had the privilege to work at renowned institutions including [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en), [Zhejiang Lab](https://en.zhejianglab.com/), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), and [Huawei 2012Lab](https://www.huawei.com/cn/). I am deeply honored to have collaborated with exceptional mentors such as [Prof. Zheng YAN](https://web.xidian.edu.cn/yanzheng/en/index.html), [Prof. Yinqian ZHANG](https://yinqian.org/), [Dr. Haoyu MA](https://scholar.google.com/citations?user=9csJTTcAAAAJ&hl=zh-CN), and [Dr. Jianyu NIU](https://jianyu-niu.github.io/), whose guidance has been pivotal to my growth. This transformative journey has not only gifted me with invaluable professional insights but also cherished memories that continue to shape my path.
