@@ -22,6 +22,7 @@ I aim to build secure Operating Systems through fundamental research with demons
 **🔍I am looking for Ph.D. positions in _LLM-driven System Security_ and _Security for AI Infrastructure_. Here is my [CV](/files/%5B250416%5DCV_Xiang_Li.pdf).**
 
 ### **NEWS!**
+ * [Apr/2025] I am invited to serve [OSPP 2025](https://summer-ospp.ac.cn/) as a mentor for [openEuler community](https://www.openeuler.org/en/)! If you have any interesting proposal which related to my research, please contact me!
  * [Jan/2025] I am participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary)!
  * [Aug/2024] I will join [City University of Hong Kong](https://www.cityu.edu.hk/) as a research assistant! Enjoy a new journey in Hong Kong!
   * [Aug/2023] I will join OSLab of [Alibaba DAMO Academy](https://damo.alibaba.com/?language=en)!
